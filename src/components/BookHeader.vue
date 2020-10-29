@@ -1,12 +1,12 @@
 <template>
-  <div id="app">
-    <router-view />
+  <div id="book-header">
+    book-header
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app',
+  name: 'book-header',
   components: {
     
   }
@@ -14,6 +14,6 @@ export default {
 </script>
 
 <style>
-#app {
+#book-header {
 }
 </style>

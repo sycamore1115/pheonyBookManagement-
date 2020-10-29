@@ -1,12 +1,12 @@
 <template>
-  <div id="app">
-    <router-view />
+  <div id="category-detail">
+    category-detail
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app',
+  name: 'category-detail',
   components: {
     
   }
@@ -14,6 +14,6 @@ export default {
 </script>
 
 <style>
-#app {
+#category-detail {
 }
 </style>
